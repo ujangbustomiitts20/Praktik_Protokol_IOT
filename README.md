@@ -129,6 +129,7 @@ iot-protocols-lab/
 
 ### 1. Clone atau Extract Proyek
 ```bash
+mkdir iot-protocols-lab
 cd iot-protocols-lab
 ```
 
