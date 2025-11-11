@@ -146,7 +146,7 @@ class StatsResource(resource.Resource):
 
 async def main():
     """Main function"""
-    host = os.getenv('COAP_HOST', 'localhost')
+    host = os.getenv('COAP_HOST', '0.0.0.0')
     port = int(os.getenv('COAP_PORT', 5683))
     
     # Create root resource
