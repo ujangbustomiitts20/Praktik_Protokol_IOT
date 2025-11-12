@@ -378,4 +378,3 @@ Proyek ini dibuat untuk keperluan edukasi. Silakan digunakan dan dimodifikasi se
 
 ---
 
-**Selamat Belajar! 🚀**
